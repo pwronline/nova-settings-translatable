@@ -14,7 +14,7 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::namespace('\OptimistDigital\NovaSettings\Http\Controllers')->group(function () {
+Route::namespace('\Pwronline\NovaSettingsTranslatable\Http\Controllers')->group(function () {
     Route::get('/settings', 'SettingsController@get');
     Route::post('/settings', 'SettingsController@save');
 });

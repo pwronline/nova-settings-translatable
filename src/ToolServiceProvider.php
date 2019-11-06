@@ -1,6 +1,6 @@
 <?php
 
-namespace OptimistDigital\NovaSettings;
+namespace Pwronline\NovaSettingsTranslatable;
 
 use Laravel\Nova\Nova;
 use Laravel\Nova\Events\ServingNova;

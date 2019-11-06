@@ -1,9 +1,9 @@
 <?php
 
-namespace OptimistDigital\NovaSettings\Models;
+namespace Pwronline\NovaSettingsTranslatable\Models;
 
 use Illuminate\Database\Eloquent\Model;
-use OptimistDigital\NovaSettings\NovaSettings;
+use Pwronline\NovaSettingsTranslatable\NovaSettings;
 use Spatie\Translatable\HasTranslations;
 
 class Settings extends Model

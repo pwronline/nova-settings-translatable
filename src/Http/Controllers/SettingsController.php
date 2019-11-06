@@ -1,11 +1,11 @@
 <?php
 
-namespace OptimistDigital\NovaSettings\Http\Controllers;
+namespace Pwronline\NovaSettingsTranslatable\Http\Controllers;
 
 use Illuminate\Routing\Controller;
 use Illuminate\Http\Request;
-use OptimistDigital\NovaSettings\Models\Settings;
-use OptimistDigital\NovaSettings\NovaSettings;
+use Pwronline\NovaSettingsTranslatable\Models\Settings;
+use Pwronline\NovaSettingsTranslatable\NovaSettings;
 use Laravel\Nova\Contracts\Resolvable;
 use Laravel\Nova\Http\Requests\NovaRequest;
 use Laravel\Nova\ResolvesFields;

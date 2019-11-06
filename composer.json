@@ -1,5 +1,5 @@
 {
-  "name": "optimistdigital/nova-settings-translatable",
+  "name": "pwronline/nova-settings-translatable",
   "description": "A Laravel Nova tool for editing custom settings using native Nova fields.",
   "keywords": [
     "laravel",
@@ -21,7 +21,7 @@
   "extra": {
     "laravel": {
       "providers": [
-        "OptimistDigital\\NovaSettings\\ToolServiceProvider"
+        "Pwronline\\NovaSettings\\ToolServiceProvider"
       ]
     }
   },

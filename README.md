@@ -1,4 +1,4 @@
-# Nova Settings
+# Nova Settings Translatable
 
 This [Laravel Nova](https://nova.laravel.com) package allows you to create custom settings in code (using Nova's native fields) and creates a UI for the users where the settings can be edited.
 

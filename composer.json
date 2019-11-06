@@ -1,9 +1,10 @@
 {
   "name": "pwronline/nova-settings-translatable",
-  "description": "A Laravel Nova tool for editing custom settings using native Nova fields.",
+  "description": "A Laravel Nova tool for editing custom settings using native Nova fields translatables.",
   "keywords": [
     "laravel",
-    "nova"
+    "nova",
+    "translatable"
   ],
   "license": "MIT",
   "require": {
@@ -21,7 +22,7 @@
   "extra": {
     "laravel": {
       "providers": [
-        "Pwronline\\NovaSettingsTranslatable\\ToolServiceProvider"
+        "Pwronline\\NovaSettingsTranslatable\\\ToolServiceProvider"
       ]
     }
   },

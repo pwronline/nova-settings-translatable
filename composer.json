@@ -22,7 +22,7 @@
   "extra": {
     "laravel": {
       "providers": [
-        "Pwronline\\NovaSettingsTranslatable\\\ToolServiceProvider"
+        "Pwronline\\NovaSettingsTranslatable\\ToolServiceProvider"
       ]
     }
   },
